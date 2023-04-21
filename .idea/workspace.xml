@@ -14,6 +14,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -43,7 +46,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+<<<<<<< HEAD
         <option value="JUnit4 Test Class" />
+=======
+        <option value="TestNG Test Class" />
+>>>>>>> e55df9c782a50f81a6325460902580ab961b2590
       </list>
     </option>
   </component>
@@ -68,8 +75,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": ""
+=======
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "TestNG",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG": ""
+>>>>>>> e55df9c782a50f81a6325460902580ab961b2590
   }
 }]]></component>
   <component name="RecentsManager">
@@ -80,8 +92,13 @@
       <recent name="ru.netology.service" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Gradle.CashbackHackServiceTest">
     <configuration name="CashbackHackServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+=======
+  <component name="RunManager" selected="Gradle.CashbackHackServiceTest.testRemainWhenAmount1000">
+    <configuration name="CashbackHackServiceTest.testRemain3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+>>>>>>> e55df9c782a50f81a6325460902580ab961b2590
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -94,7 +111,11 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
+<<<<<<< HEAD
             <option value="&quot;ru.netology.service.CashbackHackServiceTest&quot;" />
+=======
+            <option value="&quot;ru.netology.service.CashbackHackServiceTest.testRemain3&quot;" />
+>>>>>>> e55df9c782a50f81a6325460902580ab961b2590
           </list>
         </option>
         <option name="vmOptions" />
@@ -104,7 +125,11 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="CashbackHackServiceTest.remain" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+=======
+    <configuration name="CashbackHackServiceTest.testRemain5" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+>>>>>>> e55df9c782a50f81a6325460902580ab961b2590
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -117,7 +142,11 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
+<<<<<<< HEAD
             <option value="&quot;ru.netology.service.CashbackHackServiceTest.remain&quot;" />
+=======
+            <option value="&quot;ru.netology.service.CashbackHackServiceTest.testRemain5&quot;" />
+>>>>>>> e55df9c782a50f81a6325460902580ab961b2590
           </list>
         </option>
         <option name="vmOptions" />
@@ -127,7 +156,11 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="CashbackHackServiceTest.remainWhenAmount1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+=======
+    <configuration name="CashbackHackServiceTest.testRemain6" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+>>>>>>> e55df9c782a50f81a6325460902580ab961b2590
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -140,7 +173,11 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
+<<<<<<< HEAD
             <option value="&quot;ru.netology.service.CashbackHackServiceTest.remainWhenAmount1&quot;" />
+=======
+            <option value="&quot;ru.netology.service.CashbackHackServiceTest.testRemain6&quot;" />
+>>>>>>> e55df9c782a50f81a6325460902580ab961b2590
           </list>
         </option>
         <option name="vmOptions" />
@@ -150,7 +187,11 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="CashbackHackServiceTest.remainWhenAmount1_000_500" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+=======
+    <configuration name="CashbackHackServiceTest.testRemain7" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+>>>>>>> e55df9c782a50f81a6325460902580ab961b2590
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -163,7 +204,11 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
+<<<<<<< HEAD
             <option value="&quot;ru.netology.service.CashbackHackServiceTest.remainWhenAmount1_000_500&quot;" />
+=======
+            <option value="&quot;ru.netology.service.CashbackHackServiceTest.testRemain7&quot;" />
+>>>>>>> e55df9c782a50f81a6325460902580ab961b2590
           </list>
         </option>
         <option name="vmOptions" />
@@ -198,11 +243,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Gradle.CashbackHackServiceTest" />
         <item itemvalue="Gradle.CashbackHackServiceTest.remainWhenAmount1_000_500" />
         <item itemvalue="Gradle.CashbackHackServiceTest.remainWhenAmount1" />
         <item itemvalue="Gradle.CashbackHackServiceTest.remain" />
         <item itemvalue="Gradle.CashbackHackServiceTest.testRemainWhenAmount1000" />
+=======
+        <item itemvalue="Gradle.CashbackHackServiceTest.testRemainWhenAmount1000" />
+        <item itemvalue="Gradle.CashbackHackServiceTest.testRemain7" />
+        <item itemvalue="Gradle.CashbackHackServiceTest.testRemain3" />
+        <item itemvalue="Gradle.CashbackHackServiceTest.testRemain6" />
+        <item itemvalue="Gradle.CashbackHackServiceTest.testRemain5" />
+>>>>>>> e55df9c782a50f81a6325460902580ab961b2590
       </list>
     </recent_temporary>
   </component>
